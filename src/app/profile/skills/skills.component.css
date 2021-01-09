@@ -1,0 +1,16 @@
+.skills{
+    width: 100%;
+    height: 250px;
+    border: 1px solid #c3c3c3;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.skills div {
+    width: 30%;
+    height: 200px;
+    text-align: center;
+    margin-top: 5px;
+  }
+  
